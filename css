@@ -1,0 +1,27 @@
+
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("file:///Users/tannerwride/Desktop/Projects/Artsite/Resources/image1.jpeg");
+}
+.suba {
+    background-color: mediumspringgreen;
+    color: white;
+}
+.subb {
+    background-color: lightcoral;
+    color: white;
+}
+.subc {
+    background-color: skyblue;
+    color: white;
+    font-family:
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
